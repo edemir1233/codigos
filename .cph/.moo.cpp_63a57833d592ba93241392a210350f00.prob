@@ -1,0 +1,1 @@
+{"name":"Local: moo","url":"c:\\Users\\usuario\\Desktop\\codigos\\moo.cpp","tests":[{"id":1737755009604,"input":"6\n1 2 3 4 4 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\moo.cpp","group":"local","local":true}

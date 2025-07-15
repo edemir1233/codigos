@@ -1,0 +1,1 @@
+{"name":"Local: compe1","url":"c:\\Users\\usuario\\Desktop\\codigos\\compe1.cpp","tests":[{"id":1745072378109,"input":"4\n2 2 2\n2 3 4\n3 9 3\n5 6 7","output":"2 a la 3\n-1\n9 a la 2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\compe1.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: tablerodeajedrez","url":"c:\\Users\\usuario\\Desktop\\codigos\\tablerodeajedrez.cpp","tests":[{"id":1742653817439,"input":"3 4\n2 3 1 4\n3 2 9 8\n2 4 3 1","output":"18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\tablerodeajedrez.cpp","group":"local","local":true}

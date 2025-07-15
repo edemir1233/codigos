@@ -1,0 +1,1 @@
+{"name":"Local: advitiya","url":"c:\\Users\\usuario\\Desktop\\codigos\\advitiya.cpp","tests":[{"id":1738167410595,"input":"2\n3 4\nSPP\n3 1\nPSS","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\advitiya.cpp","group":"local","local":true}

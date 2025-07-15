@@ -1,0 +1,1 @@
+{"name":"Local: union_find","url":"c:\\Users\\usuario\\Desktop\\codigos\\union_find.cpp","tests":[{"id":1739026934015,"input":"4 3 \n1 2 \n2 3 \n3 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\union_find.cpp","group":"local","local":true}

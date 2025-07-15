@@ -1,0 +1,1 @@
+{"name":"Local: resolucion","url":"c:\\Users\\usuario\\Desktop\\codigos\\resolucion.cpp","tests":[{"id":1738161262288,"input":"10 5","output":"50000"},{"id":1738161539763,"input":"89 33","output":"560000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\resolucion.cpp","group":"local","local":true}

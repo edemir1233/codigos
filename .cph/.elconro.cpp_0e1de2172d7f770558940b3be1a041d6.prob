@@ -1,0 +1,1 @@
+{"name":"Local: elconro","url":"c:\\Users\\usuario\\Desktop\\codigos\\elconro.cpp","tests":[{"id":1742599808582,"input":"1\n3 4\n2 3 1 4\n3 2 9 8\n2 4 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\elconro.cpp","group":"local","local":true}

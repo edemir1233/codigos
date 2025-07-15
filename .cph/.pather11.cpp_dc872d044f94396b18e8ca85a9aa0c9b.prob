@@ -1,0 +1,1 @@
+{"name":"Local: pather11","url":"c:\\Users\\usuario\\Desktop\\codigos\\pather11.cpp","tests":[{"id":1738881492786,"input":"5","output":"    5\n   45\n  345\n 2345\n12345"},{"id":1738882242507,"input":"8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\pather11.cpp","group":"local","local":true}

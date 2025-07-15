@@ -1,0 +1,1 @@
+{"name":"Local: flecha_mas_larga","url":"c:\\Users\\usuario\\Desktop\\codigos\\flecha_mas_larga.cpp","tests":[{"id":1743713527792,"input":"4\n<--->--==>\n<<<<<<<<<<\n----==-\n<----=====>","output":"4\n1\n-1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\usuario\\Desktop\\codigos\\flecha_mas_larga.cpp","group":"local","local":true}
